@@ -8,7 +8,7 @@
 
 ```xml
 <dependency>
-    <groupId>com.kancy</groupId>
+    <groupId>com.github.kancyframework</groupId>
     <artifactId>email-plus-core</artifactId>
     <version>${version}</version>
 </dependency>
@@ -101,7 +101,7 @@ emailSender.send(email);
 
 ```xml
 <dependency>
-    <groupId>com.kancy</groupId>
+    <groupId>com.github.kancyframework</groupId>
     <artifactId>email-plus-spring-boot-starter</artifactId>
     <version>${version}</version>
 </dependency>

@@ -8,7 +8,7 @@
 
 ```xml
 <dependency>
-    <groupId>com.kancy</groupId>
+    <groupId>com.github.kancyframework</groupId>
     <artifactId>email-plus-spring-boot-starter</artifactId>
     <version>${version}</version>
 </dependency>
