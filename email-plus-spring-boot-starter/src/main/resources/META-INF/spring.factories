@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.kancyframework.emailplus.spring.boot.config.EmailplusAutoConfiguration
+org.springframework.context.ApplicationContextInitializer=\
+  com.github.kancyframework.emailplus.spring.boot.config.ApplicationContextHolder
