@@ -12,21 +12,21 @@ emailplus:
       port: 25
       username: 793272861@qq.com
       password: ENC(0Xn6xLVRo/JnOaY9e9RwtcFf2mKIw5tmB9W67pVCOR0=)
-    vcredit01:
-      host: smtp.263.net
+    test01:
+      host: smtp.qq.com
       port: 25
-      username: fkydssj@vcredit.com
-      password: ENC(02Hz0uEM+qgrf08oQ6jWZuRSyUAga1Z/VyQ=)
-    vcredit02:
-      host: smtp.263.net
+      username: 793272861@qq.com
+      password: ENC(0Xn6xLVRo/JnOaY9e9RwtcFf2mKIw5tmB9W67pVCOR0=)
+    test02:
+      host: smtp.qq.com
       port: 25
-      username: huangchengkang@vcredit.com
-      password: ENC(8nT5wqoL8qM4aft1L4A5/Qdc5b8e7uSsnBm5uRjEGAk=)
-    vcredit03:
-      host: smtp.263.net
+      username: 793272861@qq.com
+      password: ENC(0Xn6xLVRo/JnOaY9e9RwtcFf2mKIw5tmB9W67pVCOR0=)
+    test03:
+      host: smtp.qq.com
       port: 25
-      username: tangdandan@vcredit.com
-      password: ENC(zXHzmOcN+6I8f1q7JP9cQ0rWW4b4f30StNc=)
+      username: 793272861@qq.com
+      password: ENC(0Xn6xLVRo/JnOaY9e9RwtcFf2mKIw5tmB9W67pVCOR0=)
   notices:
     test-email-notice:
       capacity: 3
@@ -40,7 +40,7 @@ emailplus:
       content: "a ok!"
       async: true
     test-b:
-      to: huangchengkang@vcredit.com
+      to: 793272861@qq.com
       subject: 系统测试
       content: "b ok!"
     test-template:
